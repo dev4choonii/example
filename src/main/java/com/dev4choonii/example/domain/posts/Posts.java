@@ -1,4 +1,4 @@
-package com.dev4choonii.example.domain.Posts;
+package com.dev4choonii.example.domain.posts;
 
 import lombok.Builder;
 import lombok.Getter;
